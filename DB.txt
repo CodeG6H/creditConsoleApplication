@@ -1,0 +1,2 @@
+Keeny|Trump|USD|6000|17|5
+Mikle|Mouse|EUR|5000|90|5
